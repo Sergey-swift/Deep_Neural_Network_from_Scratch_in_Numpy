@@ -1,4 +1,3 @@
-```markdown
 # DNN from Scratch in Numpy Portfolio Project: Fashion-MNIST Classification
 
 ## Project Description
